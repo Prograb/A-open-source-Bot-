@@ -1,3 +1,6 @@
+// start of readme.md //
+
+
 # A-open-source-Bot-
 an open source bot with two commands
 
@@ -23,3 +26,11 @@ pip uninstall discord.py
 
 https://www.python.org/
 
+
+// end of python download //
+
+
+Don't forget to download bot.py to test your bot!
+
+
+// end of readme.md //
