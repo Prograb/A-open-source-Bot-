@@ -2,12 +2,12 @@ import discord
 from discord.ext import commands
 
 
-bot = commands.Bot(command_prefix='YOUR PREFIX)
+bot = commands.Bot(command_prefix='YOUR PREFIX')
                    
                    
 @bot.command()
   async def hello(ctx):
-        await ctx.send('Hello this is a bot with open source code")
+        await ctx.send('Hello this is a bot with open source code')
                        
                        
                        
